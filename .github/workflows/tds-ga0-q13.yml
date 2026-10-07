@@ -1,0 +1,9 @@
+name: TDS GA0 Q13
+on:
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: rishav@nptel.iitm.ac.in
+        run: echo "Hello, world!"
